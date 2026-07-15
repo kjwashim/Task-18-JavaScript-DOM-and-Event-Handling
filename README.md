@@ -48,12 +48,6 @@ Task-18-JavaScript-DOM-and-Event-Handling/
 git clone https://github.com/kjwashim/Task-18-JavaScript-DOM-and-Event-Handling.git
 ```
 
-### 2. Navigate to the project folder
-
-```bash
-cd Task-18-JavaScript-DOM-and-Event-Handling
-```
-
 ### 3. Run the project
 
 Open the **index.html** file in your preferred web browser.
